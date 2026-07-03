@@ -1,4 +1,4 @@
-# 
+# Top BugSentinel kit de ferramentas. Baixe e instale com verificação de compatibilidade e implantação local — rápido, seguro e fácil de usar.
 
 
 
